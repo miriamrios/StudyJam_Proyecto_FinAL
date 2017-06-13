@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Talk Me</string>
+
+
+
+    <string name="main.titulo1">Family</string>
+    <string name="main.titulo2">Numbers</string>
+    <string name="main.titulo3">Vocals</string>
+    <string name="subtitulo1">Familia</string>
+    <string name="subtitulo2">Numeros</string>
+    <string name="subtitulo3">Vocales</string>
+
+    <string name="tituloColors">Colors</string>
+    <string name="subtitulo4">Colores</string>
+
+    <string name="tituloAnimales">Animals</string>
+    <string name="subtitulo5">Animales</string>
+
+    <string name="subtitulo">TALK ME es una aplicacion que enseña a hablar ingles para niños de dde dos años en adelante,con palabras basicas para niños con imagenes interactivas
+        estaaplicacion fue creada por MIRIAM RIOS CALLISAYA  </string>
+
+    <string name="conditions"><u>Términos &amp; condiciones </u></string>
+</resources>
